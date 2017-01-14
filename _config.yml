@@ -1,6 +1,6 @@
 title: OpendataGentediLatiano
 description:Un portale di dati aperti leggero senza backend, powered by sammyildruido.
-baseurl: /jkan
+baseurl: /opendatagentedilatiano
 
 # Authentication
 github_client_id: 
