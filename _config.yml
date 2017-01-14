@@ -1,5 +1,5 @@
 title: JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+description:Un portale di dati aperti leggero senza backend, powered by sammyildruido.
 baseurl: /jkan
 
 # Authentication
@@ -8,7 +8,7 @@ gatekeeper_host:
 
 # Categories
 category_list:
-  - Arts / Culture / History
+  - Arte / Cultura / storia
   - Budget / Finance
   - Economy
   - Education
